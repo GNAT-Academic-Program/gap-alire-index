@@ -43,6 +43,6 @@ gnat_arm_elf = "^14"
 
 [origin]
 hashes = [
-"sha256:4036e8b201703cdda454880e7691243387f3b0d934bcbc2a6d835ec1ea7e4fc9",
+"sha256:4079d64fcc07d23293a4315c770d83a45ef007c360166a5f51d2ad03fd272249",
 ]
 url = "https://github.com/GNAT-Academic-Program/stm32g431_runtime/releases/download/v14.1.0/light-tasking-stm32g431-14.1.0.tar.gz"
