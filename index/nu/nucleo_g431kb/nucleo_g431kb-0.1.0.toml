@@ -10,7 +10,7 @@ website = ""
 tags = ["nucleo", "stm32", "stm32g4", "embedded"]
 
 [[depends-on]]
-light_tasking_stm32g431 = "*"
+light_tasking_stm32g4xx = "*"
 gnat_arm_elf = "*"
 [origin]
 commit = "c6ad548c1162b002ced327e187b1d2922fcae59e"
