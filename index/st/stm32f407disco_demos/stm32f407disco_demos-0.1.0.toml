@@ -23,5 +23,5 @@ stm32f407disco_bsp = "*"
 hal = "*"
 
 [origin]
-commit = "0529d3110699b083381cc299a3445cf88bc35cec"
+commit = "645376a5555fa30fb5d93e5fb52f0d1af0622406"
 url = "git+https://github.com/GNAT-Academic-Program/stm32f407disco_demos.git"
