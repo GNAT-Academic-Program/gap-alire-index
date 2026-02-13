@@ -1,0 +1,24 @@
+name = "stm32f407disco_demos"
+description = ""
+version = "0.1.0"
+
+authors = ["Olivier Henley"]
+maintainers = ["Olivier Henley <olivier.henley@gmail.com>"]
+maintainers-logins = ["ohenley"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = "https://github.com/GNAT-Academic-Program/stm32f407disco_demos"
+tags = []
+
+[[depends-on]]
+stm32f407disco_bsp = "*"
+
+auto-gpr-with = false
+project-files = [
+"adc_continuous/adc_continuous.gpr",
+"adc_hello/adc_hello.gpr",
+"blink/blink.gpr",
+]
+
+[origin]
+commit = "3845438bdf1e4369fc21c462bdd9d2474067813d"
+url = "git+https://github.com/GNAT-Academic-Program/stm32f407disco_demos.git"
