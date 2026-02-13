@@ -9,15 +9,15 @@ licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
 website = "https://github.com/GNAT-Academic-Program/stm32f407disco_demos"
 tags = []
 
-[[depends-on]]
-stm32f407disco_bsp = "0.1.0"
-
 auto-gpr-with = false
 project-files = [
 "blinky/blinky.gpr",
 "blinky_tasks_0/blinky_tasks_0.gpr",
 "blinky_protected_0/blinky_protected_0.gpr",
 ]
+
+[[depends-on]]
+stm32f407disco_bsp = "*"
 
 [origin]
 commit = "168f24fb201d659686b19e1f0921276fe3c37b5c"
