@@ -14,9 +14,9 @@ stm32f407disco_bsp = "*"
 
 auto-gpr-with = false
 project-files = [
-"adc_continuous/adc_continuous.gpr",
-"adc_hello/adc_hello.gpr",
-"blink/blink.gpr",
+"blinky/blinky.gpr",
+"blinky_tasks_0/blinky_tasks_0.gpr",
+"blinky_protected_0/blinky_protected_0.gpr",
 ]
 
 [origin]
