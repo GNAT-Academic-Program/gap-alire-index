@@ -10,7 +10,7 @@ website = "https://github.com/GNAT-Academic-Program/stm32f407_hal"
 tags = []
 
 [[depends-on]]
-light_tasking_stm32f407 = "*"
+#light_tasking_stm32f407 = "*"
 hal = "*"
 
 [origin]
