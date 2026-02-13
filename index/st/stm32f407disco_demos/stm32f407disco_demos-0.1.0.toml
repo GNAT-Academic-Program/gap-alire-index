@@ -16,8 +16,8 @@ project-files = [
 "blinky_protected_0/blinky_protected_0.gpr",
 ]
 
-#[[depends-on]]
-#stm32f407disco_bsp = "*"
+[[depends-on]]
+stm32f407disco_bsp = "*"
 
 [origin]
 commit = "43340d2853fb65467432a7b71f476949817d3f03"
