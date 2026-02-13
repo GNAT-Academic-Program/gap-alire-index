@@ -123,7 +123,7 @@ gnat_arm_elf = "^15"
 
 [origin]
 hashes = [
-"sha256:81767019cf58804d2bae59a956588785d2bed5f99a309e047591889e434e0812",
+"sha256:d5fac41262750cc7de7cdec8ca3ec82daac784a98ffca8b8215ad01ad8e4f710",
 ]
 url = "https://github.com/GNAT-Academic-Program/stm32f407-runtimes/releases/download/v15.0.0/embedded-stm32f407-15.0.0.tar.gz"
 
