@@ -15,4 +15,5 @@ stm32f407_hal = "*"
 hal = "*"
 
 [origin]
-url = "https://github.com/GNAT-Academic-Program/stm32f407disco_bsp"
+commit = "00de402021c836d2f6dcf98f45335cd5282ad59f"
+url = "git+https://github.com/GNAT-Academic-Program/stm32f407disco_bsp.git"

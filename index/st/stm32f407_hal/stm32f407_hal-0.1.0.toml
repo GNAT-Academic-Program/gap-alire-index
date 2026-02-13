@@ -14,4 +14,5 @@ light_tasking_stm32f407 = "*"
 hal = "*"
 
 [origin]
-url = "https://github.com/GNAT-Academic-Program/stm32f407_hal"
+commit = "a660b794f48e8d6a34e7ba884a0b73b1e8b42652"
+url = "git+https://github.com/GNAT-Academic-Program/stm32f407_hal.git"
