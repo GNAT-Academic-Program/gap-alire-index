@@ -10,7 +10,7 @@ website = "https://github.com/GNAT-Academic-Program/stm32f407disco_demos"
 tags = []
 
 [[depends-on]]
-stm32f407disco_bsp = "*"
+stm32f407disco_bsp = "0.1.0"
 
 auto-gpr-with = false
 project-files = [
