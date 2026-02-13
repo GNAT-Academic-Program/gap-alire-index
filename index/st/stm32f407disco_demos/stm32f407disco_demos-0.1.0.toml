@@ -20,5 +20,5 @@ project-files = [
 ]
 
 [origin]
-commit = "3845438bdf1e4369fc21c462bdd9d2474067813d"
+commit = "168f24fb201d659686b19e1f0921276fe3c37b5c"
 url = "git+https://github.com/GNAT-Academic-Program/stm32f407disco_demos.git"
